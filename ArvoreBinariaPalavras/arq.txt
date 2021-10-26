@@ -1,0 +1,12 @@
+um
+dois dois
+tres tres tres
+quatro quatro quatro
+
+
+o tema do trabalho seria qual desses?  
+1. Eficiência energetica graças a produção descentralizada de energia eletrica (mais pra energia renovável)
+2. A economia gerada pelas Usinas de Geração Distribuída fotovoltaicos (avaliar:o dimensionamento dos cabos, a eficiência DE CONVERSÃO dos painéis fotovoltaicos, EVENTUAIS PERDAS E PORQUÊ), estudar a planta e ver as possibilidades de perda, que monitoramento pode ser feito para evitar as perdas.
+3. Eficiência energética na geração de energia solar fotovoltaica (implementação na unidade consumidora), criar um sistema que tenha o maior aproveitamento, acrescenta a possibilidade do painel acompanhando o sol pra aumentar a eficiência de geração.
+
+
